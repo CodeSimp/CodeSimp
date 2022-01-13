@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeSimp
-- 👀 I’m interested in MERN Web-Development and Blockchain
-- 🌱 I’m currently learning about the Ethereum Blockchain
+- ⭐ Learning and Simplifying Coding for Everyone Is My Goal
+- ⭐ I'm Currently Sharing Tips and Tutorials on Web-Development 
 - 💞️ I’m looking to collaborate on Web Development Projects and Content Creation
 - 📫 How to reach me 
     📧 codesimpbiz@gmail.com
